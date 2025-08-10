@@ -1,0 +1,5 @@
+public class Dog array{
+ public static void main(String animals[]){
+   System.out.println(animals[2]);
+ }
+}
